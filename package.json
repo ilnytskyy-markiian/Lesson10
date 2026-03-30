@@ -1,5 +1,25 @@
 {
+  "name": "lesson10",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ilnytskyy-markiian/Lesson10#readme",
+  "bugs": {
+    "url": "https://github.com/ilnytskyy-markiian/Lesson10/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilnytskyy-markiian/Lesson10.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "hello": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "uuid": "^13.0.0"
-  }
+  },
+  "devDependencies": {}
 }
